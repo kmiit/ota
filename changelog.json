@@ -1,0 +1,12 @@
+[
+    {
+        "branch": "lineage-23.2",
+        "project": "kmiit/android_device_realme_pista",
+        "repository": "android_device_realme_pista-common",
+        "subject": "Update some overlay",
+        "submitted": 1773378346,
+        "type": "device specific",
+        "updated": 1773378346,
+        "url": ""
+    }
+]
